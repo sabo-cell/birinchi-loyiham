@@ -1,5 +1,5 @@
 # birinchi-loyiham
-##Telegramda kitob topib beruvchi bot
+##Telegramda kitob topib beruvchi bot##
 
  Funksiyalari
 1. kitoblarni yuklab olish
